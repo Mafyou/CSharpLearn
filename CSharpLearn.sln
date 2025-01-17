@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35617.110
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroClean", "MicroClean\MicroClean.csproj", "{07A9A3F0-482E-4FAD-86F3-B1D8BF7800CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwait", "AsyncAwait\AsyncAwait.csproj", "{3EA46C80-7E7C-4FCB-9D28-32F62A92F51E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{07A9A3F0-482E-4FAD-86F3-B1D8BF7800CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07A9A3F0-482E-4FAD-86F3-B1D8BF7800CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07A9A3F0-482E-4FAD-86F3-B1D8BF7800CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EA46C80-7E7C-4FCB-9D28-32F62A92F51E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA46C80-7E7C-4FCB-9D28-32F62A92F51E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA46C80-7E7C-4FCB-9D28-32F62A92F51E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA46C80-7E7C-4FCB-9D28-32F62A92F51E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

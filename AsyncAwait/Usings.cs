@@ -1,0 +1,9 @@
+﻿global using MediatR;
+global using AsyncAwait.Application;
+global using AsyncAwait.Extensions;
+global using AsyncAwait.Infrastructure;
+global using AsyncAwait.Models;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Infrastructure;
+global using Microsoft.Extensions.DependencyInjection;
+global using System.Reflection;
