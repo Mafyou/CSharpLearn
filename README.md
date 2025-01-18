@@ -1,8 +1,8 @@
 # CSharpLearn
-Repository to try some fancy C# features
+Repository to try some fancy C# features.
 
-## First project
-Micro Clean Architechture project with C# 12.0 and dotnet 9.0
+## Micro Clean
+Micro Clean Architechture project.
 
-## Second project (based on the first)
-Put the "await" the in an EndPoint the less possible
+## Async Await FromResult
+Benchmark all the async await and FromResult.
